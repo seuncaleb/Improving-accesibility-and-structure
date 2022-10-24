@@ -14,7 +14,7 @@ This project involves improving an HTML structure to ensure it meets criteria th
 2. How to properly use selectors to style a website
 3. How to add comment to CSS and HTML file
 
-*Screenshot can go here* 
+[Screenshot of code and site](./images/Screensho-of-code-and-site.png?raw=true "Code and Site Screenshot")
  
 # Contact
 
