@@ -1,4 +1,4 @@
-# Module-one-assignment
+# Improving-accesibility-and-structure
 # Increasing accesibility and improving CSS and html structure 
 
 This project involves improving an HTML structure to ensure it meets criteria that makes it semantic, and adding alt atributes to images and icons to improve accesibility. 
