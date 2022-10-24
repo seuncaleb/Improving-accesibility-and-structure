@@ -20,8 +20,8 @@ This project involves improving an HTML structure to ensure it meets criteria th
 
 If you have any questions, please contact me at: 
  
-  Github Profile: [https://github.com/seuncaleb ](SeunCaleb )  
+  Github Profile: [ SeunCaleb ]( https://github.com/seuncaleb )  
 
   Email:  calebibejigba@gmail.com
 
-  LinkedIn: [https://www.linkedin.com/in/calebibejigba](Caleb Ibejigba)
+  LinkedIn: [ Caleb Ibejigba ]( https://www.linkedin.com/in/calebibejigba)
